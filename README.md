@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Power-BI-Dashboards
 
 Welcome to the **Power BI Dashboards** repository! This collection features interactive and insightful Power BI projects designed to tackle diverse analytical use cases across various industries. Each project is structured for easy navigation and reuse, making it an excellent resource for beginners and seasoned Power BI users alike.
@@ -47,3 +48,6 @@ Contributions are welcome! If you'd like to add a new dashboard or improve an ex
 # 📂 Projects Overview
 
 ## Visualizing Microsoft AdventureWorks Data
+=======
+# powerbi-sales-dashboard
+>>>>>>> c8665219cb0d5d77dc79cb34260a53cf5e2fdbce
