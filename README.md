@@ -10,9 +10,9 @@ The dashboard provides insights into sales trends, customer behavior, and region
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](image/dashboard1.ipeg)
+![Dashboard Overview](image/dashboard1.jpeg)
 ![Sales Analysis](image/dashboard2.jpeg)
-![KPI Insights](image/dashboard3.ipeg)
+![KPI Insights](image/dashboard3.jpeg)
 
 ---
 
