@@ -1,53 +1,77 @@
-<<<<<<< HEAD
-# Power-BI-Dashboards
+# 📊 Sales Performance Dashboard (Power BI)
 
-Welcome to the **Power BI Dashboards** repository! This collection features interactive and insightful Power BI projects designed to tackle diverse analytical use cases across various industries. Each project is structured for easy navigation and reuse, making it an excellent resource for beginners and seasoned Power BI users alike.
+## 🔍 Overview
 
-This repository showcases a collection of Power BI projects, each designed to analyze data, extract insights, and visualize them in an interactive and professional manner. Each project in this repository targets a specific domain or use case, providing reusable templates, DAX scripts, Power Query logic, and documentation for learning and reference.
+This project presents an interactive **Sales Dashboard** built using Power BI to analyze business performance and support data-driven decision making.
 
-## 🚀 Repository Structure
+The dashboard provides insights into sales trends, customer behavior, and regional performance.
 
-Each dashboard project is contained in its own folder with the following structure:
+---
 
-# Project Structure
+## 📸 Dashboard Preview
 
-Each dashboard project is contained in its own folder with the following structure:
+![Dashboard Overview](images/dashboard1.ipeg)
+![Sales Analysis](images/dashboard2.jpeg)
+![KPI Insights](images/dashboard3.ipeg)
+
+---
+
+## 📊 Key Features
+
+* 📌 KPI tracking (Total Sales, Profit, Quantity)
+* 🌍 Sales by Region and Country
+* 📈 Monthly and yearly trends
+* 🧑‍💼 Customer segmentation
+* 📦 Product category performance
+
+---
+
+## 🛠 Tools & Technologies
+
+* Power BI
+* DAX (Data Analysis Expressions)
+* Power Query
+* Excel (data source)
+
+---
+
+## 📁 Project Structure
 
 ```
-Project-Name/
-├── Dashboard.pbix   # Power BI file
-├── templete.py	     # Generates the project structure
-├── Data/            # Sample/raw data
-├── Images/          # Dashboard screenshots or previews
-├── Documentation.md # Detailed explanation of the project
-└── Scripts/         # DAX, Power Query, or Python scripts
+📁 powerbi-sales-dashboard
+ ┣ 📁 data
+ ┣ 📁 images
+ ┣ 📄 sales_dashboard.pbix
+ ┗ 📄 README.md
 ```
 
-## 🔧 How to Use
+---
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/U77w41/Power-BI-Dashboards
-   ```
-2. Navigate to a project folder.
-3. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
-4. Review the data and scripts in the `Data/` and `Scripts/` folders
+## 🚀 How to Use
 
-## 📜 License
+1. Download the `.pbix` file
+2. Open it using Power BI Desktop
+3. Explore the interactive dashboard
 
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/U77w41/Power-BI-Dashboards?tab=MIT-1-ov-file) file for details.
+---
 
-## 🤝 Contributing
+## 🎯 Business Insights
 
-Contributions are welcome! If you'd like to add a new dashboard or improve an existing one:
+This dashboard helps to:
 
-1. Fork this repository.
-2. Create a feature branch.
-3. Submit a pull request with a detailed description of your changes.
+* Identify top-performing regions
+* Monitor sales growth over time
+* Analyze customer purchasing behavior
+* Support strategic decision-making
 
-# 📂 Projects Overview
+---
 
-## Visualizing Microsoft AdventureWorks Data
-=======
-# powerbi-sales-dashboard
->>>>>>> c8665219cb0d5d77dc79cb34260a53cf5e2fdbce
+## 👤 Author
+
+**Fatma Messaoudi**
+
+---
+
+## 💡 Notes
+
+This project is part of my learning journey in data analytics and business intelligence using Power BI.
